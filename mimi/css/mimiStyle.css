@@ -1,0 +1,46 @@
+body{
+	background-color: #cec6f2;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Inconsolata', monospace;
+	color: #e49888;
+}
+
+.image {
+	width: 150px;
+	height: 200px;
+	float: left;
+	padding: 80px;
+	border-radius: 30%;
+}
+
+#yo {
+	width: 320px;
+	height: 300px;
+	float: left;
+	padding: 20px;
+	border-radius: 20%;
+}
+
+#hobbies {
+	clear: both;
+}
+
+.parrafoM {
+	text-align: justify;
+	font-size: 20px;
+	font-family: 'Inconsolata', monospace;
+	color:#2ec949;
+	padding: 20px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 27px;
+	font-family: 'Inconsolata', monospace;
+	color: #e49888;
+}
+
